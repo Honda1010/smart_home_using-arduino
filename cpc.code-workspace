@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../../cpc"
+		},
+		{
+			"name": "mp",
+			"path": "../mp"
+		},
+		{
+			"name": "adc_ard",
+			"path": "../adc_ard"
+		},
+		{
+			"name": "summer",
+			"path": "."
+		},
+		{
+			"name": "DHT_test",
+			"path": "../DHT_test"
+		}
+	],
+	"settings": {}
+}
